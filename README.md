@@ -1,6 +1,6 @@
 # borderlands-3-mods
 ## altef_4 Borderlands 3 Hotfix Based Mods
-=================================
+=====================================
 
 Welcome to my Borderlands 3 Mod space! Here's a summary
 of the mods you'll find in here, though:
@@ -19,4 +19,9 @@ of the mods you'll find in here, though:
 - **guardians_health_scalling** - guardian takedown release scale.
 - **loot_monster_mayhem** - gearbox mini event.
 
-#### many examples was teken from https://github.com/apocalyptech/bl3mods
+#### many examples was teken from [here](https://github.com/apocalyptech/bl3mods)
+## Licenses
+========
+
+All the mods in this repository are currently licensed under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
