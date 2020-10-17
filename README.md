@@ -1,6 +1,6 @@
 # borderlands-3-mods
 ## altef_4 Borderlands 3 Hotfix Based Mods
-=====================================
+=================================
 
 Welcome to my Borderlands 3 Mod space! Here's a summary
 of the mods you'll find in here, though:
