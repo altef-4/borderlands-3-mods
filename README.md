@@ -9,8 +9,9 @@ of the mods you'll find in here, though:
 
 - **3000_mob_spawn_mod** - change mob spawn on slaughter star 3000.
 - **3000_r1** - turns slaughter star 3000 fight into hyperion slaughter fight.
-### this mods is for OP builds, mobs have increased health/armor/shield and legendary guns in hands, increased speed and mob count
-#### there are few more little mods inside
+
+this mods is for OP builds, mobs have increased health/armor/shield and legendary guns in hands, increased speed and mob count
+there are few more little mods inside
 
 ## Gearbox mini events and other
 
@@ -21,7 +22,6 @@ of the mods you'll find in here, though:
 
 #### many examples was teken from [here](https://github.com/apocalyptech/bl3mods)
 ## Licenses
-========
 
 All the mods in this repository are currently licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
